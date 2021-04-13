@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/asclada/3-column-preview-card-component)
-- Live Site URL: [Add live site URL here](https://3-column-preview-card-component-gules.vercel.app/)
+- Solution URL: [HERE](https://github.com/asclada/3-column-preview-card-component)
+- Live Site URL: [HERE](https://3-column-preview-card-component-gules.vercel.app/)
 
 ## My process
 
